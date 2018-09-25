@@ -19,3 +19,9 @@ node fetch_data_gouv_fr.js reuses
 node fetch_data_gouv_fr.js users
 node fetch_data_gouv_fr.js topics
 ```
+
+## To generate stats from data
+
+```bash
+node generate_data_gouv_fr_stats.js
+```
