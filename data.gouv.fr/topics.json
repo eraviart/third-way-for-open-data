@@ -1,0 +1,1091 @@
+[
+  {
+    "created_at": null,
+    "datasets": [
+      {
+        "id": "5593aab9c751df35d8a453ba",
+        "page": "https://www.data.gouv.fr/fr/datasets/resultats-des-controles-officiels-sanitaires-dispositif-dinformation-alimconfiance/",
+        "title": "Résultats des contrôles officiels sanitaires : dispositif d'information « Alim’confiance »",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/resultats-des-controles-officiels-sanitaires-dispositif-dinformation-alimconfiance/"
+      },
+      {
+        "id": "53698ecea3a729239d203585",
+        "page": "https://www.data.gouv.fr/fr/datasets/agreste-alimentation-animale/",
+        "title": "Agreste - Alimentation animale",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/agreste-alimentation-animale/"
+      },
+      {
+        "id": "53698ec1a3a729239d203552",
+        "page": "https://www.data.gouv.fr/fr/datasets/aides-de-la-politique-agricole-commune-pac-30379066/",
+        "title": "Aides de la politique agricole commune (PAC)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/aides-de-la-politique-agricole-commune-pac-30379066/"
+      },
+      {
+        "id": "53699e2aa3a729239d205dea",
+        "page": "https://www.data.gouv.fr/fr/datasets/produits-alimentaires-ingredients-nutrition-labels/",
+        "title": "Produits alimentaires : ingrédients, nutrition, labels",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/produits-alimentaires-ingredients-nutrition-labels/"
+      },
+      {
+        "id": "53699038a3a729239d20394f",
+        "page": "https://www.data.gouv.fr/fr/datasets/agreste-cartographie-des-donnees-du-recensement-agricole/",
+        "title": "Agreste- Cartographie des données du recensement agricole ",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/agreste-cartographie-des-donnees-du-recensement-agricole/"
+      },
+      {
+        "id": "58d8d8a0c751df17537c66be",
+        "page": "https://www.data.gouv.fr/fr/datasets/registre-parcellaire-graphique-rpg-contours-des-parcelles-et-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire/",
+        "title": "Registre parcellaire graphique (RPG) : contours des parcelles et îlots culturaux et leur groupe de cultures majoritaire",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/registre-parcellaire-graphique-rpg-contours-des-parcelles-et-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire/"
+      },
+      {
+        "id": "53698e90a3a729239d2034d3",
+        "page": "https://www.data.gouv.fr/fr/datasets/agriculture-biologique-2008-2011-nombre-d-operateurs-engages-en-agriculture-biologique-30378896/",
+        "title": "Agriculture biologique 2008-2011 - nombre d'opérateurs engagés en agriculture biologique",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/agriculture-biologique-2008-2011-nombre-d-operateurs-engages-en-agriculture-biologique-30378896/"
+      },
+      {
+        "id": "5369a0eaa3a729239d206497",
+        "page": "https://www.data.gouv.fr/fr/datasets/statistiques-viti-vinicoles-releves-annuels-des-stocks-et-des-recoltes/",
+        "title": "Statistiques viti-vinicoles - Relevés annuels des stocks et des récoltes",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/statistiques-viti-vinicoles-releves-annuels-des-stocks-et-des-recoltes/"
+      },
+      {
+        "id": "575e9fac88ee38072a640390",
+        "page": "https://www.data.gouv.fr/fr/datasets/donnees-ouvertes-du-catalogue-des-produits-phytopharmaceutiques-adjuvants-matieres-fertilisantes-et-support-de-culture-produits-mixtes-et-melanges-e-phy/",
+        "title": "Données ouvertes du catalogue des produits phytopharmaceutiques, adjuvants, matières fertilisantes et support de culture, produits mixtes et mélanges – E-Phy",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/donnees-ouvertes-du-catalogue-des-produits-phytopharmaceutiques-adjuvants-matieres-fertilisantes-et-support-de-culture-produits-mixtes-et-melanges-e-phy/"
+      }
+    ],
+    "deleted": null,
+    "description": "*Quels sont les contours des parcelles agricoles ?*   \n*Quels sont les montants des aides perçues au titre de la Politique Agricole Commune ?*  \n*Quelles sont les cotations journalières des fruits et légumes ?*  \n*Quelle est la composition nutritionnelle des aliments ?*... \n\nRetrouvez ici les données relatives aux thèmes suivants : agriculture, pêche, forêts, alimentation. \n\nCes séries sont notamment fournies par le ministère de l'Agriculture, de l’Agroalimentaire et de la Forêt; par les Etablissements Publics sous tutelle et les collectivités territoriales.",
+    "featured": true,
+    "id": "53541d16c751df3488825af7",
+    "last_modified": null,
+    "name": "Agriculture et Alimentation",
+    "owner": {
+      "avatar": null,
+      "avatar_thumbnail": null,
+      "class": "User",
+      "first_name": "Axel",
+      "id": "534fff3da3a7292c64a7740b",
+      "last_name": "Haustant",
+      "page": "https://www.data.gouv.fr/fr/users/axel-haustant-3/",
+      "slug": "axel-haustant-3",
+      "uri": "https://www.data.gouv.fr/api/1/users/axel-haustant-3/"
+    },
+    "page": "https://www.data.gouv.fr/fr/topics/agriculture-et-alimentation/",
+    "private": false,
+    "reuses": [
+      {
+        "id": "536cc411a3a72938e9a8e94b",
+        "image": "https://static.data.gouv.fr/images/b9/c9dcde860b485f96261da81f17bfbd.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/b9/c9dcde860b485f96261da81f17bfbd-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/combien-de-sucres/",
+        "title": "Combien de sucres ?",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/combien-de-sucres/"
+      },
+      {
+        "id": "536cc322a3a72938e9a8e859",
+        "image": "https://static.data.gouv.fr/images/2b/f4460267054663983bfb7e5a002721.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/2b/f4460267054663983bfb7e5a002721-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/etablissements-agroalimentaires-nombre-effectif-et-masse-salariale-en-2011/",
+        "title": "Etablissements agroalimentaires : nombre, effectif et masse salariale en 2011",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/etablissements-agroalimentaires-nombre-effectif-et-masse-salariale-en-2011/"
+      },
+      {
+        "id": "536cca57a3a72938e9a8e9f7",
+        "image": "https://static.data.gouv.fr/images/a5/a61b85a9b543288aa95cf0ab4dceeb.jpg",
+        "image_thumbnail": "https://static.data.gouv.fr/images/a5/a61b85a9b543288aa95cf0ab4dceeb-100.jpg",
+        "page": "https://www.data.gouv.fr/fr/reuses/rpg-2010-visualisation-en-ligne/",
+        "title": "RPG 2010 - visualisation en ligne",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/rpg-2010-visualisation-en-ligne/"
+      }
+    ],
+    "slug": "agriculture-et-alimentation",
+    "tags": [
+      "agricole",
+      "alimentation",
+      "ogm",
+      "pac",
+      "agroalimentaire",
+      "agriculture"
+    ],
+    "uri": "https://www.data.gouv.fr/api/1/topics/agriculture-et-alimentation/"
+  },
+  {
+    "created_at": null,
+    "datasets": [
+      {
+        "id": "53699a19a3a729239d2053df",
+        "page": "https://www.data.gouv.fr/fr/datasets/aides-a-la-presse-classement-des-titres-et-groupes-de-presse-aides/",
+        "title": "Aides à la presse : classement des titres et groupes de presse aidés",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/aides-a-la-presse-classement-des-titres-et-groupes-de-presse-aides/"
+      },
+      {
+        "id": "536c47bfa3a72933d8d1b3a6",
+        "page": "https://www.data.gouv.fr/fr/datasets/monuments-historiques-liste-des-immeubles-proteges-au-titre-des-monuments-historiques/",
+        "title": "Monuments Historiques : liste des Immeubles protégés au titre des Monuments Historiques",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/monuments-historiques-liste-des-immeubles-proteges-au-titre-des-monuments-historiques/"
+      },
+      {
+        "id": "53698e87a3a729239d2034b9",
+        "page": "https://www.data.gouv.fr/fr/datasets/agenda-de-l-offre-culturelle/",
+        "title": "Agenda de l'offre culturelle",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/agenda-de-l-offre-culturelle/"
+      },
+      {
+        "id": "536998b8a3a729239d205027",
+        "page": "https://www.data.gouv.fr/fr/datasets/lieux-de-tournage-de-films-long-metrage-prs/",
+        "title": "Lieux de tournage de films (long métrage)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/lieux-de-tournage-de-films-long-metrage-prs/"
+      },
+      {
+        "id": "536998eea3a729239d2050ca",
+        "page": "https://www.data.gouv.fr/fr/datasets/liste-des-coordonnees-gps-des-monuments-nationaux/",
+        "title": "Liste des coordonnées GPS des monuments nationaux",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-coordonnees-gps-des-monuments-nationaux/"
+      },
+      {
+        "id": "567bba4dc751df4361c664bc",
+        "page": "https://www.data.gouv.fr/fr/datasets/archives-publiques-en-france/",
+        "title": "Archives publiques en France",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/archives-publiques-en-france/"
+      },
+      {
+        "id": "53699211a3a729239d203e0e",
+        "page": "https://www.data.gouv.fr/fr/datasets/data-bnf-fr-les-donnees-de-la-bnf-en-rdf/",
+        "title": "Data.bnf.fr : les données de la BnF en RDF",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/data-bnf-fr-les-donnees-de-la-bnf-en-rdf/"
+      }
+    ],
+    "deleted": null,
+    "description": "*Où sont localisés les établissements culturels et quelle est leur fréquentation ?*  \n*Quelle est l'offre culturelle disponible et quelles sont les pratiques des français ?*  \n*Quelles sont les aides et subventions allouées à l'audiovisuel, à la presse ?...* \n\nRetrouvez ici les données relatives aux thèmes suivants: arts, musées, cinéma, littérature, spectacle vivant, patrimoine, jeux vidéos, communications, Internet, médias, presse... \n\nCes séries sont notamment fournies par le Ministère de la Culture et de la Communication, les Etablissements Publics sous tutelle et les collectivités territoriales.",
+    "featured": true,
+    "id": "53541d95c751df3487825af7",
+    "last_modified": null,
+    "name": "Culture",
+    "owner": {
+      "avatar": null,
+      "avatar_thumbnail": null,
+      "class": "User",
+      "first_name": "Axel",
+      "id": "534fff3da3a7292c64a7740b",
+      "last_name": "Haustant",
+      "page": "https://www.data.gouv.fr/fr/users/axel-haustant-3/",
+      "slug": "axel-haustant-3",
+      "uri": "https://www.data.gouv.fr/api/1/users/axel-haustant-3/"
+    },
+    "page": "https://www.data.gouv.fr/fr/topics/culture/",
+    "private": false,
+    "reuses": [
+      {
+        "id": "571cfee988ee3807eca19f12",
+        "image": "https://static.data.gouv.fr/images/48/4f5fad240a4a2e9a211b338b0b68bf.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/48/4f5fad240a4a2e9a211b338b0b68bf-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/les-transmusicales-de-rennes-en-data/",
+        "title": "Les Transmusicales de Rennes en data",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/les-transmusicales-de-rennes-en-data/"
+      },
+      {
+        "id": "536cc40ca3a72938e9a8e933",
+        "image": "https://static.data.gouv.fr/images/94/fffef352b949b88bfc60c4f464649d.jpg",
+        "image_thumbnail": "https://static.data.gouv.fr/images/94/fffef352b949b88bfc60c4f464649d-100.jpg",
+        "page": "https://www.data.gouv.fr/fr/reuses/parite-et-culture-ou-en-sommes-nous/",
+        "title": "Parité et culture: où en sommes-nous ?",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/parite-et-culture-ou-en-sommes-nous/"
+      }
+    ],
+    "slug": "culture",
+    "tags": [
+      "arts",
+      "art",
+      "theatre",
+      "cinema",
+      "patrimoine",
+      "culture",
+      "musee",
+      "design",
+      "musique",
+      "sculpture"
+    ],
+    "uri": "https://www.data.gouv.fr/api/1/topics/culture/"
+  },
+  {
+    "created_at": null,
+    "datasets": [
+      {
+        "id": "53698f16a3a729239d203648",
+        "page": "https://www.data.gouv.fr/fr/datasets/artisans-nombre-d-entreprises-chiffre-d-affaires-et-valeur-ajoutee/",
+        "title": "Artisans : nombre d'entreprises, chiffre d'affaires et valeur ajoutée",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/artisans-nombre-d-entreprises-chiffre-d-affaires-et-valeur-ajoutee/"
+      },
+      {
+        "id": "53699374a3a729239d2041ce",
+        "page": "https://www.data.gouv.fr/fr/datasets/effectifs-par-entreprise-relevant-de-l-ape-ventilles-par-secteurs-d-activites-en-etp/",
+        "title": "Effectifs par entreprise relevant de l'APE ventillés par secteurs d'activités (en ETP)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/effectifs-par-entreprise-relevant-de-l-ape-ventilles-par-secteurs-d-activites-en-etp/"
+      },
+      {
+        "id": "536993f2a3a729239d204313",
+        "page": "https://www.data.gouv.fr/fr/datasets/marche-du-travail/",
+        "title": "Marché du travail",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/marche-du-travail/"
+      },
+      {
+        "id": "53699434a3a729239d2043b3",
+        "page": "https://www.data.gouv.fr/fr/datasets/activite-emploi-et-chomage-enquete-emploi-en-continu-fichiers-detail/",
+        "title": "Activité emploi et chômage - enquête emploi en continu - fichiers détail",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/activite-emploi-et-chomage-enquete-emploi-en-continu-fichiers-detail/"
+      },
+      {
+        "id": "53699794a3a729239d204d1e",
+        "page": "https://www.data.gouv.fr/fr/datasets/la-base-economique-des-entreprises-regionales/",
+        "title": "La Base Économique des Entreprises Régionales",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/la-base-economique-des-entreprises-regionales/"
+      },
+      {
+        "id": "53699d5fa3a729239d205bff",
+        "page": "https://www.data.gouv.fr/fr/datasets/portefeuille-des-participations-cotees-de-l-etat/",
+        "title": "Portefeuille des participations cotées de l'Etat",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/portefeuille-des-participations-cotees-de-l-etat/"
+      },
+      {
+        "id": "53699dc9a3a729239d205d08",
+        "page": "https://www.data.gouv.fr/fr/datasets/prix-et-indices-de-prix/",
+        "title": "Prix et indices de prix",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/prix-et-indices-de-prix/"
+      },
+      {
+        "id": "54101458a3a72937cb2c703c",
+        "page": "https://www.data.gouv.fr/fr/datasets/prix-des-carburants-en-france/",
+        "title": "Prix des carburants en France",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/prix-des-carburants-en-france/"
+      },
+      {
+        "id": "5369a052a3a729239d206338",
+        "page": "https://www.data.gouv.fr/fr/datasets/statistiques-annuelles-d-entreprises-esane/",
+        "title": "Statistiques annuelles d'entreprises : Esane",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/statistiques-annuelles-d-entreprises-esane/"
+      },
+      {
+        "id": "53ae94cca3a729709f56d518",
+        "page": "https://www.data.gouv.fr/fr/datasets/structure-de-l-emploi-en-france/",
+        "title": "Structure de l'emploi en France",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/structure-de-l-emploi-en-france/"
+      }
+    ],
+    "deleted": null,
+    "description": "*Comment est réparti le budget de l'Etat ?*  \r\n*Quelles subventions sont versées aux associations ?*  \r\n*Quels sont les marchés publics conclus par l'Etat ?*  \r\n*Quels sont les demandeurs d'emploi par zone d'emploi ? Quels sont les métiers en tension ?...*\r\n\r\nRetrouvez ici les données relatives aux thèmes suivants : budget de l'Etat, fiscalité, emploi, salaires, industrie, commerce, entreprises, associations,  artisanat, production, pouvoir d'achat.  \r\n\r\nCes séries sont notamment fournies par les ministères économiques et financiers, le ministère du Travail, de l'Emploi, de la Formation Professionnelle et du dialogue social, les Etablissements Publics sous tutelle et les collectivités territoriales. ",
+    "featured": true,
+    "id": "53541e27c751df3488825af8",
+    "last_modified": null,
+    "name": "Économie et Emploi",
+    "owner": {
+      "avatar": null,
+      "avatar_thumbnail": null,
+      "class": "User",
+      "first_name": "Axel",
+      "id": "534fff3da3a7292c64a7740b",
+      "last_name": "Haustant",
+      "page": "https://www.data.gouv.fr/fr/users/axel-haustant-3/",
+      "slug": "axel-haustant-3",
+      "uri": "https://www.data.gouv.fr/api/1/users/axel-haustant-3/"
+    },
+    "page": "https://www.data.gouv.fr/fr/topics/economie-et-emploi/",
+    "private": false,
+    "reuses": [
+      {
+        "id": "539f1afaa3a729477d22945d",
+        "image": "https://static.data.gouv.fr/images/75/e14a1a806d49e48530e488c49b8dba.jpg",
+        "image_thumbnail": "https://static.data.gouv.fr/images/75/e14a1a806d49e48530e488c49b8dba-100.jpg",
+        "page": "https://www.data.gouv.fr/fr/reuses/le-systeme-urbain-francais/",
+        "title": "Le système urbain français",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/le-systeme-urbain-francais/"
+      },
+      {
+        "id": "536cc3a1a3a72938e9a8e900",
+        "image": "https://static.data.gouv.fr/images/ef/dc1e858cd34d0e9ca6e60dd138ac00.jpg",
+        "image_thumbnail": "https://static.data.gouv.fr/images/ef/dc1e858cd34d0e9ca6e60dd138ac00-100.jpg",
+        "page": "https://www.data.gouv.fr/fr/reuses/les-cartes-du-chomage-depuis-1982/",
+        "title": "Les cartes du chômage depuis 1982",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/les-cartes-du-chomage-depuis-1982/"
+      },
+      {
+        "id": "536cc3e0a3a72938e9a8e917",
+        "image": "https://static.data.gouv.fr/images/55/be200af3524f91938fc1cf0f8212dd.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/55/be200af3524f91938fc1cf0f8212dd-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/rue-89-carte-votre-commune-est-elle-pleine-de-logements-vides/",
+        "title": "[Rue 89] Carte: votre commune est-elle pleine de logements vides ?",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/rue-89-carte-votre-commune-est-elle-pleine-de-logements-vides/"
+      }
+    ],
+    "slug": "economie-et-emploi",
+    "tags": [
+      "economie",
+      "emploi",
+      "chomage",
+      "competitivite",
+      "marches-publics"
+    ],
+    "uri": "https://www.data.gouv.fr/api/1/topics/economie-et-emploi/"
+  },
+  {
+    "created_at": null,
+    "datasets": [
+      {
+        "id": "53699233a3a729239d203e69",
+        "page": "https://www.data.gouv.fr/fr/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/",
+        "title": "Découpage administratif communal français issu d'OpenStreetMap",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/"
+      },
+      {
+        "id": "536995eda3a729239d204864",
+        "page": "https://www.data.gouv.fr/fr/datasets/gares-ferroviaires-de-tous-types-exploitees-ou-non/",
+        "title": "Gares ferroviaires de tous types, exploitées ou non",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/gares-ferroviaires-de-tous-types-exploitees-ou-non/"
+      },
+      {
+        "id": "5a9d1ef988ee385c2b453e3a",
+        "page": "https://www.data.gouv.fr/fr/datasets/donnees-touristiques-de-la-base-datatourisme/",
+        "title": "Données touristiques de la base DATAtourisme",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/donnees-touristiques-de-la-base-datatourisme/"
+      },
+      {
+        "id": "53699580a3a729239d204738",
+        "page": "https://www.data.gouv.fr/fr/datasets/fichier-fantoir-des-voies-et-lieux-dits/",
+        "title": "Fichier FANTOIR des voies et lieux-dits",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/fichier-fantoir-des-voies-et-lieux-dits/"
+      },
+      {
+        "id": "53699b24a3a729239d205672",
+        "page": "https://www.data.gouv.fr/fr/datasets/offre-transport-de-la-ratp-format-gtfs-ratp/",
+        "title": "Offre transport de la RATP - format GTFS",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/offre-transport-de-la-ratp-format-gtfs-ratp/"
+      },
+      {
+        "id": "53f31ab2a3a72908bd9dfc09",
+        "page": "https://www.data.gouv.fr/fr/datasets/donnees-comptables-et-fiscales-des-collectivites-locales/",
+        "title": "Données comptables et fiscales des collectivités locales",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/donnees-comptables-et-fiscales-des-collectivites-locales/"
+      },
+      {
+        "id": "538071a9a3a7297e4d35d6ce",
+        "page": "https://www.data.gouv.fr/fr/datasets/base-d-adresses-nationale-ouverte-bano/",
+        "title": "Base d'Adresses Nationale Ouverte - BANO",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/base-d-adresses-nationale-ouverte-bano/"
+      },
+      {
+        "id": "53835e37a3a72906c7ec5c5e",
+        "page": "https://www.data.gouv.fr/fr/datasets/regularite-tgv-a-l-arrivee-sncf/",
+        "title": "Régularité TGV à l'arrivée",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/regularite-tgv-a-l-arrivee-sncf/"
+      },
+      {
+        "id": "5551f561c751df7646190c78",
+        "page": "https://www.data.gouv.fr/fr/datasets/balances-comptables-des-communes/",
+        "title": "Balances comptables des communes",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/balances-comptables-des-communes/"
+      }
+    ],
+    "deleted": null,
+    "description": "*Où sont les endroits où il fait bon vivre ?*  \n*Les collectivités sont-elles dépensières ?*  \n*Comment se répartit la richesse, la mixité, la culture entre territoires ?*  \n*Comment se dessine l’aménagement du territoire, aujourd'hui, demain ?*  \n*Quel est le schéma de transport de ma région ?*...\n\nCette thématique regroupe notamment les données publiques relatives aux collectivités locales, et référence les portails des territoires engagés dans l'open data. Elle regroupe aussi les données relatives aux transports et à l'aménagement urbain.",
+    "featured": true,
+    "id": "535531ecc751df3ceca6f827",
+    "last_modified": null,
+    "name": "Territoires, Transports, Tourisme",
+    "owner": {
+      "avatar": null,
+      "avatar_thumbnail": null,
+      "class": "User",
+      "first_name": "Axel",
+      "id": "534fff3da3a7292c64a7740b",
+      "last_name": "Haustant",
+      "page": "https://www.data.gouv.fr/fr/users/axel-haustant-3/",
+      "slug": "axel-haustant-3",
+      "uri": "https://www.data.gouv.fr/api/1/users/axel-haustant-3/"
+    },
+    "page": "https://www.data.gouv.fr/fr/topics/territoires-et-transports/",
+    "private": false,
+    "reuses": [
+      {
+        "id": "536cc9c0a3a72938e9a8e9c5",
+        "image": "https://static.data.gouv.fr/images/32/99d04e04334311804b697b5e4e0b41.jpg",
+        "image_thumbnail": "https://static.data.gouv.fr/images/32/99d04e04334311804b697b5e4e0b41-100.jpg",
+        "page": "https://www.data.gouv.fr/fr/reuses/carte-de-la-circulation-2012/",
+        "title": "Carte de la circulation 2012",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/carte-de-la-circulation-2012/"
+      },
+      {
+        "id": "539a76d9a3a7293bc27283ad",
+        "image": "https://static.data.gouv.fr/images/b5/857b3d3620492eadfe359bbfa05841.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/b5/857b3d3620492eadfe359bbfa05841-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/mon-quartier-ideal-a-paris-1/",
+        "title": "Mon Quartier Ideal A Paris",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/mon-quartier-ideal-a-paris-1/"
+      },
+      {
+        "id": "53d98d3da3a729019f37e2bb",
+        "image": "https://static.data.gouv.fr/images/57/031dc77bf24c77b5254869eb700a41.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/57/031dc77bf24c77b5254869eb700a41-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/montpellier-historique/",
+        "title": "Montpellier Historique",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/montpellier-historique/"
+      }
+    ],
+    "slug": "territoires-et-transports",
+    "tags": [
+      "territoire",
+      "tourisme",
+      "transport"
+    ],
+    "uri": "https://www.data.gouv.fr/api/1/topics/territoires-et-transports/"
+  },
+  {
+    "created_at": null,
+    "datasets": [
+      {
+        "id": "53698f50a3a729239d2036f5",
+        "page": "https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/",
+        "title": "Base de données publique des médicaments (base officielle)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/base-de-donnees-publique-des-medicaments-base-officielle/"
+      },
+      {
+        "id": "53699037a3a729239d203949",
+        "page": "https://www.data.gouv.fr/fr/datasets/cartographie-des-bases-de-donnees-publiques-en-sante/",
+        "title": "Cartographie des bases de données publiques en santé",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/cartographie-des-bases-de-donnees-publiques-en-sante/"
+      },
+      {
+        "id": "5369923fa3a729239d203e97",
+        "page": "https://www.data.gouv.fr/fr/datasets/delai-d-attente-rendez-vous-pediatre-0/",
+        "title": "Délai d'attente rendez-vous pédiatre",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/delai-d-attente-rendez-vous-pediatre-0/"
+      },
+      {
+        "id": "53699569a3a729239d2046eb",
+        "page": "https://www.data.gouv.fr/fr/datasets/finess-extraction-du-fichier-des-etablissements/",
+        "title": "FINESS Extraction du Fichier des établissements",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/finess-extraction-du-fichier-des-etablissements/"
+      },
+      {
+        "id": "536995cda3a729239d20480e",
+        "page": "https://www.data.gouv.fr/fr/datasets/frequence-des-sejours-selon-codes-diagnostics-principaux-ou-actes-classa-0/",
+        "title": "Fréquence des séjours selon codes diagnostics principaux ou actes classant",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/frequence-des-sejours-selon-codes-diagnostics-principaux-ou-actes-classa-0/"
+      },
+      {
+        "id": "53699635a3a729239d204927",
+        "page": "https://www.data.gouv.fr/fr/datasets/hospi-diag/",
+        "title": "Hospi Diag",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/hospi-diag/"
+      },
+      {
+        "id": "53699668a3a729239d2049e8",
+        "page": "https://www.data.gouv.fr/fr/datasets/indicateur-avance-sanitaire-ias-syndrome-grippal/",
+        "title": "Indicateur Avancé Sanitaire IAS® - SYNDROME GRIPPAL",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/indicateur-avance-sanitaire-ias-syndrome-grippal/"
+      },
+      {
+        "id": "53bfa27aa3a7293e19309ef7",
+        "page": "https://www.data.gouv.fr/fr/datasets/indicateurs-de-qualite-et-de-securite-des-soins-infections-associees-aux-soins-recueil-2016/",
+        "title": "Indicateurs de qualité et de sécurité des soins - Infections associées aux soins - recueil 2016",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/indicateurs-de-qualite-et-de-securite-des-soins-infections-associees-aux-soins-recueil-2016/"
+      },
+      {
+        "id": "536997f9a3a729239d204e27",
+        "page": "https://www.data.gouv.fr/fr/datasets/les-categories-majeures-de-diagnostic-par-etablissement-de-sante-00000000/",
+        "title": "Les catégories majeures de diagnostic par établissement de santé",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/les-categories-majeures-de-diagnostic-par-etablissement-de-sante-00000000/"
+      },
+      {
+        "id": "5369984aa3a729239d204efe",
+        "page": "https://www.data.gouv.fr/fr/datasets/les-indicateurs-relatifs-aux-infections-nosocomiales-dans-les-etablissements-de-sante-2011-576189/",
+        "title": "Les indicateurs relatifs aux infections nosocomiales dans les établissements de santé - 2011",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/les-indicateurs-relatifs-aux-infections-nosocomiales-dans-les-etablissements-de-sante-2011-576189/"
+      },
+      {
+        "id": "54de1e8fc751df388646738b",
+        "page": "https://www.data.gouv.fr/fr/datasets/open-damir-base-complete-sur-les-depenses-dassurance-maladie-inter-regimes/",
+        "title": "Open DAMIR : base complète sur les dépenses d'assurance maladie inter régimes",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/open-damir-base-complete-sur-les-depenses-dassurance-maladie-inter-regimes/"
+      },
+      {
+        "id": "53699261a3a729239d203eef",
+        "page": "https://www.data.gouv.fr/fr/datasets/demographie-des-professions-de-san-0/",
+        "title": "Démographie des professions de santé",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/demographie-des-professions-de-san-0/"
+      }
+    ],
+    "deleted": null,
+    "description": "*Quelles sont les dépenses publiques de santé ?*  \r\n*Quel coût pour les patients ?*  \r\n*Quels sont les établissements de santé à proximité et la qualité des soins fournis ?*  \r\n*Quelles sont les caractéristiques d’un médicament ?...*\r\n\r\nRetrouvez ici les données relatives à l’offre et la consommation de soins, l’efficacité du  système de santé, la santé publique.\r\n\r\nCes séries sont notamment fournies par le Ministère des Affaires Sociales et de la Santé, l'Assurance Maladie, la Haute Autorité de Santé, l'Agence Technique de l'Information sur l'Hospitalisation, les autres Etablissements Publics sous tutelle et les collectivités territoriales. \r\n",
+    "featured": true,
+    "id": "53553108c751df3ceda6f822",
+    "last_modified": null,
+    "name": "Santé et Social",
+    "owner": {
+      "avatar": null,
+      "avatar_thumbnail": null,
+      "class": "User",
+      "first_name": "Axel",
+      "id": "534fff3da3a7292c64a7740b",
+      "last_name": "Haustant",
+      "page": "https://www.data.gouv.fr/fr/users/axel-haustant-3/",
+      "slug": "axel-haustant-3",
+      "uri": "https://www.data.gouv.fr/api/1/users/axel-haustant-3/"
+    },
+    "page": "https://www.data.gouv.fr/fr/topics/sante-et-social/",
+    "private": false,
+    "reuses": [
+      {
+        "id": "536cc372a3a72938e9a8e8a1",
+        "image": "https://static.data.gouv.fr/images/67/0cd2533f0e4254ba6d34b483c08a62.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/67/0cd2533f0e4254ba6d34b483c08a62-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/cartogramme-des-consommateurs-de-mediator-en-france/",
+        "title": "Cartogramme des consommateurs de MEDIATOR en France",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/cartogramme-des-consommateurs-de-mediator-en-france/"
+      },
+      {
+        "id": "536cc31aa3a72938e9a8e854",
+        "image": "https://static.data.gouv.fr/images/40/3391a498ae45c29bdbac4f208c0c73.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/40/3391a498ae45c29bdbac4f208c0c73-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/gynecologie-obstetrique-et-medicale-densite-pour-100-000-femmes-de-15-ans-ou-plus/",
+        "title": "Gynécologie obstétrique et médicale : densité pour 100 000 femmes de 15 ans ou plus",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/gynecologie-obstetrique-et-medicale-densite-pour-100-000-femmes-de-15-ans-ou-plus/"
+      },
+      {
+        "id": "536cc353a3a72938e9a8e867",
+        "image": null,
+        "image_thumbnail": null,
+        "page": "https://www.data.gouv.fr/fr/reuses/repartition-des-professionnels-de-sante-en-france/",
+        "title": "REPARTITION DES PROFESSIONNELS DE SANTE EN FRANCE",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/repartition-des-professionnels-de-sante-en-france/"
+      }
+    ],
+    "slug": "sante-et-social",
+    "tags": [
+      "sante",
+      "social",
+      "soin",
+      "medicament"
+    ],
+    "uri": "https://www.data.gouv.fr/api/1/topics/sante-et-social/"
+  },
+  {
+    "created_at": null,
+    "datasets": [
+      {
+        "id": "53698f37a3a729239d2036a0",
+        "page": "https://www.data.gouv.fr/fr/datasets/avis-et-conseils-de-la-cada/",
+        "title": "Avis et conseils de la CADA",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/avis-et-conseils-de-la-cada/"
+      },
+      {
+        "id": "53699158a3a729239d203c2f",
+        "page": "https://www.data.gouv.fr/fr/datasets/comptes-des-partis-et-groupements-politiques/",
+        "title": "Comptes des partis et groupements politiques",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/comptes-des-partis-et-groupements-politiques/"
+      },
+      {
+        "id": "53699ce7a3a729239d205ac3",
+        "page": "https://www.data.gouv.fr/fr/datasets/plf-jaune-associations-subventionnees/",
+        "title": "PLF - Jaune - Associations subventionnées",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/plf-jaune-associations-subventionnees/"
+      },
+      {
+        "id": "53698f1aa3a729239d203653",
+        "page": "https://www.data.gouv.fr/fr/datasets/associations-reconnues-d-utilite-publique/",
+        "title": "Associations Reconnues d'Utilité Publique",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/associations-reconnues-d-utilite-publique/"
+      },
+      {
+        "id": "53dfccb5a3a729110ca8d363",
+        "page": "https://www.data.gouv.fr/fr/datasets/declarations-d-interets-des-parlementaires-publiees-par-la-haute-autorite-pour-la-transparence/",
+        "title": "Déclarations d'intérêts des parlementaires publiées par la Haute Autorité pour la Transparence",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/declarations-d-interets-des-parlementaires-publiees-par-la-haute-autorite-pour-la-transparence/"
+      },
+      {
+        "id": "53699925a3a729239d205177",
+        "page": "https://www.data.gouv.fr/fr/datasets/liste-des-maires-au-25-avril-2014/",
+        "title": "Liste des maires au 25 avril 2014",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-maires-au-25-avril-2014/"
+      },
+      {
+        "id": "5369993fa3a729239d2051cd",
+        "page": "https://www.data.gouv.fr/fr/datasets/liste-des-points-d-accueil-de-la-gendarmerie-nationale-avec-geolocalisation/",
+        "title": "Liste des points d'accueil de la gendarmerie nationale avec géolocalisation",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-points-d-accueil-de-la-gendarmerie-nationale-avec-geolocalisation/"
+      },
+      {
+        "id": "53699940a3a729239d2051d4",
+        "page": "https://www.data.gouv.fr/fr/datasets/liste-des-points-de-contact-du-reseau-postal-francais-horaires-equipements-et-services-associes/",
+        "title": "Liste des points de contact du réseau postal français - Horaires, équipements et services associés",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-points-de-contact-du-reseau-postal-francais-horaires-equipements-et-services-associes/"
+      },
+      {
+        "id": "53699958a3a729239d205218",
+        "page": "https://www.data.gouv.fr/fr/datasets/liste-des-unites-et-etablissements-de-la-croix-rouge-francaise-csv/",
+        "title": "Liste des unités et établissements de la Croix-Rouge française (csv)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-unites-et-etablissements-de-la-croix-rouge-francaise-csv/"
+      },
+      {
+        "id": "53699ebba3a729239d205f4f",
+        "page": "https://www.data.gouv.fr/fr/datasets/recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques/",
+        "title": "Recensement des équipements sportifs, espaces et sites de pratiques",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques/"
+      },
+      {
+        "id": "5369a10fa3a729239d2064ee",
+        "page": "https://www.data.gouv.fr/fr/datasets/subventions-allouees-au-titre-de-la-reserve-parlementai-0/",
+        "title": "Subventions allouées au titre de la \"réserve parlementaire\"",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/subventions-allouees-au-titre-de-la-reserve-parlementai-0/"
+      },
+      {
+        "id": "53698f4ca3a729239d2036df",
+        "page": "https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/",
+        "title": "Base de données accidents corporels de la circulation",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/base-de-donnees-accidents-corporels-de-la-circulation/"
+      }
+    ],
+    "deleted": null,
+    "description": "*Quels sont les résultats des élections ?*  \r\n*Quels sont les faits constatés par les forces de l'ordre par département ?*  \r\n*Où ont lieu les accidents de la route ?*  \r\n*Quelles sont les associations et fondations reconnues d'utilité publique ?*  \r\n*Combien y-a-t-il de licenciés par fédération sportive ?...*  \r\n\r\nRetrouvez ici les données relatives aux thèmes suivants : démographie, justice, élections, sports, sécurité.\r\n\r\nCes séries sont notamment fournies par le ministère de l'Intérieur, le ministère de la Justice, le ministère des Sports, de la Jeunesse, de l'Education Populaire et de la Vie Associative, l'Insee, l'Institut national des hautes études de la sécurité et de la justice, les Etablissements Publics sous tutelle et les collectivités territoriales. ",
+    "featured": true,
+    "id": "53553193c751df3ceca6f826",
+    "last_modified": null,
+    "name": "Société",
+    "owner": {
+      "avatar": null,
+      "avatar_thumbnail": null,
+      "class": "User",
+      "first_name": "Axel",
+      "id": "534fff3da3a7292c64a7740b",
+      "last_name": "Haustant",
+      "page": "https://www.data.gouv.fr/fr/users/axel-haustant-3/",
+      "slug": "axel-haustant-3",
+      "uri": "https://www.data.gouv.fr/api/1/users/axel-haustant-3/"
+    },
+    "page": "https://www.data.gouv.fr/fr/topics/societe/",
+    "private": false,
+    "reuses": [
+      {
+        "id": "53bd06c0a3a729713651c373",
+        "image": "https://static.data.gouv.fr/images/98/8d371a47964690b270a95cf40c081d.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/98/8d371a47964690b270a95cf40c081d-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/carte-des-600-films-tournes-a-paris/",
+        "title": "Carte des 600 films tournés à Paris",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/carte-des-600-films-tournes-a-paris/"
+      },
+      {
+        "id": "536cca50a3a72938e9a8e9f5",
+        "image": "https://static.data.gouv.fr/images/03/0864443faf4ac986a1b9f433000d10.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/03/0864443faf4ac986a1b9f433000d10-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/faits-de-delinquance-constates-par-departement-de-2002-a-2010/",
+        "title": "Faits de délinquance constatés par département de 2002 à 2010",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/faits-de-delinquance-constates-par-departement-de-2002-a-2010/"
+      },
+      {
+        "id": "536cc402a3a72938e9a8e92e",
+        "image": "https://static.data.gouv.fr/images/ea/f43899eb8e405f985fc3fa054ec1fe.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/ea/f43899eb8e405f985fc3fa054ec1fe-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/associations-a-qui-profitent-les-subventions/",
+        "title": "Associations : à qui profitent les subventions ?",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/associations-a-qui-profitent-les-subventions/"
+      }
+    ],
+    "slug": "societe",
+    "tags": [
+      "securite",
+      "societe",
+      "elections"
+    ],
+    "uri": "https://www.data.gouv.fr/api/1/topics/societe/"
+  },
+  {
+    "created_at": null,
+    "datasets": [
+      {
+        "id": "53698f17a3a729239d20364d",
+        "page": "https://www.data.gouv.fr/fr/datasets/assiette-des-droits-de-mutation-immobiliers/",
+        "title": "Assiette des droits de mutation immobiliers",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/assiette-des-droits-de-mutation-immobiliers/"
+      },
+      {
+        "id": "53ba4c07a3a729219b7bead3",
+        "page": "https://www.data.gouv.fr/fr/datasets/emissions-de-co2-et-de-polluants-des-vehicules-commercialises-en-france/",
+        "title": "Emissions de CO2 et de polluants des véhicules commercialisés en France ",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/emissions-de-co2-et-de-polluants-des-vehicules-commercialises-en-france/"
+      },
+      {
+        "id": "5369945ba3a729239d204413",
+        "page": "https://www.data.gouv.fr/fr/datasets/entrepot-d-indicateurs-et-de-donnees-sur-l-environnement-eider/",
+        "title": "Entrepôt d’indicateurs et de données sur l'environnement (« Eider »)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/entrepot-d-indicateurs-et-de-donnees-sur-l-environnement-eider/"
+      },
+      {
+        "id": "5369997ea3a729239d20527a",
+        "page": "https://www.data.gouv.fr/fr/datasets/logements-sociaux-finances-a-paris-prs/",
+        "title": "Logements sociaux financés à Paris",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/logements-sociaux-finances-a-paris-prs/"
+      },
+      {
+        "id": "53699a81a3a729239d2054e6",
+        "page": "https://www.data.gouv.fr/fr/datasets/nombre-de-logements-commences-en-date-de-prise-en-compte-ods/",
+        "title": "Nombre de logements commencés en date de prise en compte",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/nombre-de-logements-commences-en-date-de-prise-en-compte-ods/"
+      },
+      {
+        "id": "53699c21a3a729239d2058d4",
+        "page": "https://www.data.gouv.fr/fr/datasets/statistiques-sur-les-permis-de-construire-pc-permis-damenager-pa-et-declaration-prealable-dp-base-sitadel/",
+        "title": "Statistiques sur les permis de construire (PC), permis d’aménager (PA) et déclaration préalable (DP) (base Sitadel)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/statistiques-sur-les-permis-de-construire-pc-permis-damenager-pa-et-declaration-prealable-dp-base-sitadel/"
+      },
+      {
+        "id": "53699c5aa3a729239d20595e",
+        "page": "https://www.data.gouv.fr/fr/datasets/petrole-electricite-gaz-et-autres-statistiques-de-l-energie-pegase/",
+        "title": "Pétrole, électricité, gaz et autres statistiques de l’énergie (« pégase »)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/petrole-electricite-gaz-et-autres-statistiques-de-l-energie-pegase/"
+      },
+      {
+        "id": "536c4c9ea3a72933d8d1b3b6",
+        "page": "https://www.data.gouv.fr/fr/datasets/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200-0/",
+        "title": "Prix de l'immobilier d'habitation à Paris depuis 1200",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/prix-de-l-immobilier-d-habitation-a-paris-depuis-1200-0/"
+      },
+      {
+        "id": "53699e2aa3a729239d205df3",
+        "page": "https://www.data.gouv.fr/fr/datasets/produits-biocides-30381961/",
+        "title": "Produits Biocides",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/produits-biocides-30381961/"
+      },
+      {
+        "id": "53d38d7da3a72904270136c2",
+        "page": "https://www.data.gouv.fr/fr/datasets/programme-local-de-lhabitat-dans-le-haut-rhin-plh/",
+        "title": "Programme local de l'habitat dans le Haut-Rhin (PLH)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/programme-local-de-lhabitat-dans-le-haut-rhin-plh/"
+      },
+      {
+        "id": "5369a141a3a729239d20656a",
+        "page": "https://www.data.gouv.fr/fr/datasets/tableau-de-bord-dechets/",
+        "title": "Tableau de bord déchets",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/tableau-de-bord-dechets/"
+      },
+      {
+        "id": "536c51f8a3a72933d8d1b3bb",
+        "page": "https://www.data.gouv.fr/fr/datasets/valeurs-immobilieres-economiques-et-financieres-de-1800-a-2015/",
+        "title": "Valeurs immobilières, économiques et financières de 1800 à 2015",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/valeurs-immobilieres-economiques-et-financieres-de-1800-a-2015/"
+      }
+    ],
+    "deleted": null,
+    "description": "*Quelle est la qualité de l'eau ? La pollution atmosphérique par zone géographique ?*  \r\n*Quelle est l'évolution du prix des énergies ? Le nombre de voitures à faibles émissions ?*  \r\n*Quels sont les prix à la vente des logements neufs par zone géographique ?*  \r\n\r\n\r\nRetrouvez ici les données relatives aux thèmes suivants : logement, écologie, développement durable, énergie, météo, climat.  \r\n\r\nCes séries sont notamment fournies par le ministère de l'Ecologie, du Développement Durable et de l'Energie, le Ministère de l'Egalité des Territoires et du Logement, les Etablissements Publics sous tutelle et les collectivités territoriales. ",
+    "featured": true,
+    "id": "53552ff1c751df3ceca6f825",
+    "last_modified": null,
+    "name": "Logement, Développement Durable et Énergie",
+    "owner": {
+      "avatar": null,
+      "avatar_thumbnail": null,
+      "class": "User",
+      "first_name": "Axel",
+      "id": "534fff3da3a7292c64a7740b",
+      "last_name": "Haustant",
+      "page": "https://www.data.gouv.fr/fr/users/axel-haustant-3/",
+      "slug": "axel-haustant-3",
+      "uri": "https://www.data.gouv.fr/api/1/users/axel-haustant-3/"
+    },
+    "page": "https://www.data.gouv.fr/fr/topics/logement-developpement-durable-et-energie/",
+    "private": false,
+    "reuses": [
+      {
+        "id": "536cc3e0a3a72938e9a8e918",
+        "image": "https://static.data.gouv.fr/images/cb/243c596dbc4f138be44def14d397fa.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/cb/243c596dbc4f138be44def14d397fa-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/carte-des-logements-vacants-en-ile-de-france/",
+        "title": "Carte des logements vacants en Ile de France",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/carte-des-logements-vacants-en-ile-de-france/"
+      },
+      {
+        "id": "536ccaaba3a72938e9a8ea38",
+        "image": "https://static.data.gouv.fr/images/c4/c5ac1683574749bb1a9152eb8186ec.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/c4/c5ac1683574749bb1a9152eb8186ec-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/visualisation-sur-le-geoportail-des-parcs-naturels-regionaux/",
+        "title": "Visualisation sur le Géoportail des parcs naturels régionaux",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/visualisation-sur-le-geoportail-des-parcs-naturels-regionaux/"
+      },
+      {
+        "id": "5625fe1f88ee384a2e12613c",
+        "image": "https://static.data.gouv.fr/images/c5/a1a11de695416d8ce63217fdc9d93d.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/c5/a1a11de695416d8ce63217fdc9d93d-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/documentation-collaborative-des-donnees/",
+        "title": "Documentation collaborative des données",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/documentation-collaborative-des-donnees/"
+      }
+    ],
+    "slug": "logement-developpement-durable-et-energie",
+    "tags": [
+      "energie",
+      "developpement-durable",
+      "logement"
+    ],
+    "uri": "https://www.data.gouv.fr/api/1/topics/logement-developpement-durable-et-energie/"
+  },
+  {
+    "created_at": null,
+    "datasets": [
+      {
+        "id": "5492f3e8c751df24dc04805c",
+        "page": "https://www.data.gouv.fr/fr/datasets/donnees-de-laide-au-developpement-de-lafd-1/",
+        "title": "Données de l'aide au développement de l'AFD",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/donnees-de-laide-au-developpement-de-lafd-1/"
+      },
+      {
+        "id": "53ae8ac1a3a729709f56d50b",
+        "page": "https://www.data.gouv.fr/fr/datasets/l-aide-publique-au-developpement-de-la-france/",
+        "title": "L’aide publique au développement de la France",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/l-aide-publique-au-developpement-de-la-france/"
+      },
+      {
+        "id": "54802738c751df2156e127c2",
+        "page": "https://www.data.gouv.fr/fr/datasets/corpus-de-documents-relatif-aux-negociations-commerciales-internationales-en-cours-ttip-tisa-et-ceta/",
+        "title": "Corpus de documents relatif aux négociations commerciales internationales en cours (TTIP, TiSA et CETA)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/corpus-de-documents-relatif-aux-negociations-commerciales-internationales-en-cours-ttip-tisa-et-ceta/"
+      },
+      {
+        "id": "53698e79a3a729239d20348d",
+        "page": "https://www.data.gouv.fr/fr/datasets/adoptions-internationales-2001-2013-en-fonction-des-procedures-d-adoption/",
+        "title": "Adoptions internationales 2001-2013 en fonction des procédures d'adoption",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/adoptions-internationales-2001-2013-en-fonction-des-procedures-d-adoption/"
+      },
+      {
+        "id": "536991baa3a729239d203d30",
+        "page": "https://www.data.gouv.fr/fr/datasets/contributions-francaises-aux-principales-organisations-internationales-en-2010-et-2011/",
+        "title": "Contributions françaises aux principales organisations internationales en 2010 et 2011",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/contributions-francaises-aux-principales-organisations-internationales-en-2010-et-2011/"
+      },
+      {
+        "id": "53d38225a3a7290427013696",
+        "page": "https://www.data.gouv.fr/fr/datasets/encours-des-creances-de-la-france-sur-les-etats-etrangers-au-31-decembre-2013/",
+        "title": "Encours des créances de la France sur les États étrangers au 31 décembre 2013",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/encours-des-creances-de-la-france-sur-les-etats-etrangers-au-31-decembre-2013/"
+      },
+      {
+        "id": "536995caa3a729239d204804",
+        "page": "https://www.data.gouv.fr/fr/datasets/francais-de-l-etranger-inscriptions-au-registre-des-francais-etablis-hors-de-france-2001-2013/",
+        "title": "Français de l'étranger : inscriptions au registre des Français établis hors de France (2001-2013)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/francais-de-l-etranger-inscriptions-au-registre-des-francais-etablis-hors-de-france-2001-2013/"
+      },
+      {
+        "id": "536995f7a3a729239d204889",
+        "page": "https://www.data.gouv.fr/fr/datasets/geolocalisation-des-etablissements-du-reseau-d-enseignement-de-l-aefe-30382449/",
+        "title": "Géolocalisation des établissements du réseau d'enseignement de l'AEFE",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/geolocalisation-des-etablissements-du-reseau-d-enseignement-de-l-aefe-30382449/"
+      },
+      {
+        "id": "5369991ea3a729239d205165",
+        "page": "https://www.data.gouv.fr/fr/datasets/liste-des-instituts-francais-et-de-leurs-antennes/",
+        "title": "Liste des Instituts français et de leurs antennes",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-instituts-francais-et-de-leurs-antennes/"
+      },
+      {
+        "id": "53dfdb5ea3a729110ca8d371",
+        "page": "https://www.data.gouv.fr/fr/datasets/reserves-officielles-de-28-pays-europeens/",
+        "title": "Réserves officielles de 28 pays européens",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/reserves-officielles-de-28-pays-europeens/"
+      },
+      {
+        "id": "538085a5a3a7297e4d35d726",
+        "page": "https://www.data.gouv.fr/fr/datasets/resultats-des-elections-europeennes-2014/",
+        "title": "Résultats des élections européennes 2014",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/resultats-des-elections-europeennes-2014/"
+      }
+    ],
+    "deleted": null,
+    "description": "*Quels sont les montants accordés aux fonds d'urgence humanitaire ?*  \n*Où sont situées les Ambassades et Alliances Françaises ?*  \n*Comment évoluent les dépenses et les effectifs de la Défense nationale ?*... \n\nRetrouvez ici les données relatives aux thèmes suivants : aide internationale,  diplomatie, coopération, développement, défense, statistiques internationales...\n\nCes séries sont notamment fournies par le ministère des Affaires Etrangères, le ministère de la Défense, Eurostat, la Banque Mondiale.",
+    "featured": true,
+    "id": "53552f9ac751df3ceca6f824",
+    "last_modified": null,
+    "name": "International et Europe",
+    "owner": {
+      "avatar": null,
+      "avatar_thumbnail": null,
+      "class": "User",
+      "first_name": "Axel",
+      "id": "534fff3da3a7292c64a7740b",
+      "last_name": "Haustant",
+      "page": "https://www.data.gouv.fr/fr/users/axel-haustant-3/",
+      "slug": "axel-haustant-3",
+      "uri": "https://www.data.gouv.fr/api/1/users/axel-haustant-3/"
+    },
+    "page": "https://www.data.gouv.fr/fr/topics/international-et-europe/",
+    "private": false,
+    "reuses": [
+      {
+        "id": "536cc548a3a72938e9a8e999",
+        "image": null,
+        "image_thumbnail": null,
+        "page": "https://www.data.gouv.fr/fr/reuses/exposition-des-expatries-francais-aux-prises-dotages/",
+        "title": "EXPOSITION DES EXPATRIES FRANCAIS AUX PRISES D'OTAGES",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/exposition-des-expatries-francais-aux-prises-dotages/"
+      },
+      {
+        "id": "536cc548a3a72938e9a8e99c",
+        "image": "https://static.data.gouv.fr/images/ab/65841e5336403c9857d5de02768b17.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/ab/65841e5336403c9857d5de02768b17-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/les-francais-a-letranger/",
+        "title": "Les Français à l'étranger",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/les-francais-a-letranger/"
+      },
+      {
+        "id": "536cc548a3a72938e9a8e99b",
+        "image": "https://static.data.gouv.fr/images/47/6ec96a828c45c5837262959177017c.jpg",
+        "image_thumbnail": "https://static.data.gouv.fr/images/47/6ec96a828c45c5837262959177017c-100.jpg",
+        "page": "https://www.data.gouv.fr/fr/reuses/les-francais-dans-le-monde-31-decembre-2012/",
+        "title": "Les Français dans le monde, 31 décembre 2012",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/les-francais-dans-le-monde-31-decembre-2012/"
+      }
+    ],
+    "slug": "international-et-europe",
+    "tags": [
+      "europe",
+      "geopolitique",
+      "diplomatie",
+      "ambassade",
+      "defense",
+      "international"
+    ],
+    "uri": "https://www.data.gouv.fr/api/1/topics/international-et-europe/"
+  },
+  {
+    "created_at": null,
+    "datasets": [
+      {
+        "id": "53699374a3a729239d2041cc",
+        "page": "https://www.data.gouv.fr/fr/datasets/effectifs-d-etudiants-inscrits-dans-les-etablissements-publics-sous-tutelle-du-ministere-en-charge-d/",
+        "title": "Effectifs d'étudiants inscrits dans les établissements publics sous tutelle du ministère en charge de l’Enseignement supérieur et de la Recherche",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/effectifs-d-etudiants-inscrits-dans-les-etablissements-publics-sous-tutelle-du-ministere-en-charge-d/"
+      },
+      {
+        "id": "536998fda3a729239d2050f8",
+        "page": "https://www.data.gouv.fr/fr/datasets/adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres/",
+        "title": "Adresse et géolocalisation des établissements d'enseignement du premier et second degrés ",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres/"
+      },
+      {
+        "id": "53699691a3a729239d204a87",
+        "page": "https://www.data.gouv.fr/fr/datasets/indicateurs-de-resultat-des-lycees-denseignement-general-et-technologique/",
+        "title": "Indicateurs de résultat des lycées d'enseignement général et technologique",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/indicateurs-de-resultat-des-lycees-denseignement-general-et-technologique/"
+      },
+      {
+        "id": "53699692a3a729239d204a8c",
+        "page": "https://www.data.gouv.fr/fr/datasets/indicateurs-de-resultat-des-lycees-denseignement-professionnel/",
+        "title": "Indicateurs de résultat des lycées d'enseignement professionnel",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/indicateurs-de-resultat-des-lycees-denseignement-professionnel/"
+      },
+      {
+        "id": "53699721a3a729239d204bf6",
+        "page": "https://www.data.gouv.fr/fr/datasets/insertion-professionnelle-des-diplomes-de-master-en-universites-et-etablissements-assimil-0/",
+        "title": "Insertion professionnelle des diplômés de Master en universités et établissements assimilés",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/insertion-professionnelle-des-diplomes-de-master-en-universites-et-etablissements-assimil-0/"
+      },
+      {
+        "id": "536997d2a3a729239d204dbd",
+        "page": "https://www.data.gouv.fr/fr/datasets/le-diplome-national-du-brevet-00000000/",
+        "title": "Le diplôme national du brevet",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/le-diplome-national-du-brevet-00000000/"
+      },
+      {
+        "id": "536997fca3a729239d204e2f",
+        "page": "https://www.data.gouv.fr/fr/datasets/les-classes-preparatoires-aux-grandes-ecoles-cpge-00000000/",
+        "title": "Les classes préparatoires aux grandes écoles (CPGE)",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/les-classes-preparatoires-aux-grandes-ecoles-cpge-00000000/"
+      },
+      {
+        "id": "5369981da3a729239d204e85",
+        "page": "https://www.data.gouv.fr/fr/datasets/les-ecoles-de-commerce-gestion-et-vente-00000000/",
+        "title": "Les écoles de commerce, gestion et vente",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/les-ecoles-de-commerce-gestion-et-vente-00000000/"
+      },
+      {
+        "id": "5369984aa3a729239d204efe",
+        "page": "https://www.data.gouv.fr/fr/datasets/les-indicateurs-relatifs-aux-infections-nosocomiales-dans-les-etablissements-de-sante-2011-576189/",
+        "title": "Les indicateurs relatifs aux infections nosocomiales dans les établissements de santé - 2011",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/les-indicateurs-relatifs-aux-infections-nosocomiales-dans-les-etablissements-de-sante-2011-576189/"
+      },
+      {
+        "id": "5369984ba3a729239d204f03",
+        "page": "https://www.data.gouv.fr/fr/datasets/les-instituts-de-recherche-francais-a-l-etranger-ifre-dans-le-monde/",
+        "title": "Les Instituts de recherche français à l’étranger (IFRE) dans le monde",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/les-instituts-de-recherche-francais-a-l-etranger-ifre-dans-le-monde/"
+      },
+      {
+        "id": "536998f1a3a729239d2050d4",
+        "page": "https://www.data.gouv.fr/fr/datasets/liste-des-ecoles-doctorales-accreditees/",
+        "title": "Liste des écoles doctorales accréditées",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/liste-des-ecoles-doctorales-accreditees/"
+      },
+      {
+        "id": "5369988fa3a729239d204fc3",
+        "page": "https://www.data.gouv.fr/fr/datasets/l-evolution-de-la-depense-interieure-d-education-00000000/",
+        "title": "L'évolution de la dépense intérieure d'éducation",
+        "uri": "https://www.data.gouv.fr/api/1/datasets/l-evolution-de-la-depense-interieure-d-education-00000000/"
+      }
+    ],
+    "deleted": null,
+    "description": "*Où sont localisés les établissements d'enseignement ?*  \r\n*Quels sont leurs effectifs et leurs résultats ?*  \r\n*Quelle est l'évolution de la dépense nationale d'éducation ?...* \r\n\r\nRetrouvez ici les données relatives aux thèmes suivants : enseignement primaire, secondaire, supérieur, recherche et développement, brevets, formation professionnelle.\r\n\r\nCes séries sont notamment fournies par le ministère de l'Education Nationale, le ministère de l'Enseignement Supérieur et de la Recherche et les Etablissements Publics sous tutelle et les collectivités territoriales. ",
+    "featured": true,
+    "id": "53552f47c751df3ceca6f823",
+    "last_modified": null,
+    "name": "Éducation et Recherche",
+    "owner": {
+      "avatar": null,
+      "avatar_thumbnail": null,
+      "class": "User",
+      "first_name": "Axel",
+      "id": "534fff3da3a7292c64a7740b",
+      "last_name": "Haustant",
+      "page": "https://www.data.gouv.fr/fr/users/axel-haustant-3/",
+      "slug": "axel-haustant-3",
+      "uri": "https://www.data.gouv.fr/api/1/users/axel-haustant-3/"
+    },
+    "page": "https://www.data.gouv.fr/fr/topics/education-et-recherche/",
+    "private": false,
+    "reuses": [
+      {
+        "id": "536cc326a3a72938e9a8e85e",
+        "image": "https://static.data.gouv.fr/images/36/d8035698734b0c9fcc918c6653dea7.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/36/d8035698734b0c9fcc918c6653dea7-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/etat-de-lenseignement-superieur-et-de-la-recherche-en-france/",
+        "title": "État de l'enseignement supérieur et de la recherche en France",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/etat-de-lenseignement-superieur-et-de-la-recherche-en-france/"
+      },
+      {
+        "id": "539a7bb3a3a7293bc27283b3",
+        "image": "https://static.data.gouv.fr/images/56/e6dbe86a054198be34266b6cb0d3a0.jpg",
+        "image_thumbnail": "https://static.data.gouv.fr/images/56/e6dbe86a054198be34266b6cb0d3a0-100.jpg",
+        "page": "https://www.data.gouv.fr/fr/reuses/le-niveau-deducation-en-europe-en-2010/",
+        "title": "Le niveau d’éducation en Europe en 2010",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/le-niveau-deducation-en-europe-en-2010/"
+      },
+      {
+        "id": "536cc35ca3a72938e9a8e87b",
+        "image": "https://static.data.gouv.fr/images/ff/cfa2579c6649c49c1063e2b7057a72.png",
+        "image_thumbnail": "https://static.data.gouv.fr/images/ff/cfa2579c6649c49c1063e2b7057a72-100.png",
+        "page": "https://www.data.gouv.fr/fr/reuses/perfectschool/",
+        "title": "PerfectSchool",
+        "uri": "https://www.data.gouv.fr/api/1/reuses/perfectschool/"
+      }
+    ],
+    "slug": "education-et-recherche",
+    "tags": [
+      "education",
+      "recherche",
+      "scolarite",
+      "enseignement",
+      "lycee",
+      "ecole",
+      "universite"
+    ],
+    "uri": "https://www.data.gouv.fr/api/1/topics/education-et-recherche/"
+  }
+]
