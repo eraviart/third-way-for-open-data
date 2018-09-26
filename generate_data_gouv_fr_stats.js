@@ -29,6 +29,20 @@ const dataDir = "data.gouv.fr"
 }
 
 {
+  const filename = "discussions-count-by-post-date.json"
+  console.log(`Generating ${filename}...`)
+  const countByDate = {}
+  const discussions = JSON.parse(fs.readFileSync(path.join(dataDir, "discussions.json"), { encoding: "utf-8" }))
+  for (let discussion of discussions) {
+    for (let post of discussion.discussion) {
+      const date = post.posted_on.split("T")[0]
+      countByDate[date] = (countByDate[date] || 0) + 1
+    }
+  }
+  fs.writeFileSync(path.join(dataDir, filename), JSON.stringify(countByDate, null, 2))
+}
+
+{
   const filename = "issues-count-by-close-date.json"
   console.log(`Generating ${filename}...`)
   const countByDate = {}
