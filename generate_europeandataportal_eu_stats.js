@@ -10,12 +10,21 @@ const dataDir = "europeandataportal.eu"
   const countByMetadataCreationDate = {}
   const countByMetadataModificationDate = {}
   const countByResourceRevisionDate = {}
+  const countByMetadataCreationDateByLicense = {}
   for (let packageFilename of packagesFilenames) {
     console.log(`  Reading ${packageFilename}...`)
     const datasets = JSON.parse(decompressSync(fs.readFileSync(path.join(dataDir, packageFilename))))
     for (let dataset of Object.values(datasets)) {
       const metadataCreationDate = dataset.metadata_created.split("T")[0]
       countByMetadataCreationDate[metadataCreationDate] = (countByMetadataCreationDate[metadataCreationDate] || 0) + 1
+
+      const license = dataset.license_title
+      let countByCreationDateAtLicense = countByMetadataCreationDateByLicense[license]
+      if (countByCreationDateAtLicense === undefined) {
+        countByCreationDateAtLicense = countByMetadataCreationDateByLicense[license] = {}
+      }
+      countByCreationDateAtLicense[metadataCreationDate] = (countByCreationDateAtLicense[metadataCreationDate] || 0) + 1
+
       const metadataModificationDate = dataset.metadata_modified.split("T")[0]
       if (metadataModificationDate > metadataCreationDate) {
         countByMetadataModificationDate[metadataModificationDate] =
@@ -45,5 +54,9 @@ const dataDir = "europeandataportal.eu"
   fs.writeFileSync(
     path.join(dataDir, "packages-count-by-resource-revision-date.json"),
     JSON.stringify(countByResourceRevisionDate, null, 2)
+  )
+  fs.writeFileSync(
+    path.join(dataDir, "licenses-count-by-metadata-creation-date.json"),
+    JSON.stringify(countByMetadataCreationDateByLicense, null, 2)
   )
 }
