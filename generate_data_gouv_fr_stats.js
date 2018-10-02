@@ -7,6 +7,7 @@ const dataDir = "data.gouv.fr"
   console.log("Generating packages stats")
   const datasets = JSON.parse(fs.readFileSync(path.join(dataDir, "datasets.json"), { encoding: "utf-8" }))
   const countByCreationDate = {}
+  const countByCreationDateByLicense = {}
   const countByModificationDate = {}
   const countByResourceModificationDate = {}
   const countByUpdateDate = {}
@@ -14,6 +15,14 @@ const dataDir = "data.gouv.fr"
     // if (dataset.deleted) continue
     const creationDate = dataset.created_at.split("T")[0]
     countByCreationDate[creationDate] = (countByCreationDate[creationDate] || 0) + 1
+
+    const license = dataset.license
+    let countByCreationDateAtLicense = countByCreationDateByLicense[license]
+    if (countByCreationDateAtLicense === undefined) {
+      countByCreationDateAtLicense = countByCreationDateByLicense[license] = {}
+    }
+    countByCreationDateAtLicense[creationDate] = (countByCreationDateAtLicense[creationDate] || 0) + 1
+
     const modificationDate = dataset.last_modified.split("T")[0]
     if (modificationDate > creationDate) {
       countByModificationDate[modificationDate] = (countByModificationDate[modificationDate] || 0) + 1
@@ -49,6 +58,10 @@ const dataDir = "data.gouv.fr"
     JSON.stringify(countByResourceModificationDate, null, 2)
   )
   fs.writeFileSync(path.join(dataDir, "datasets-count-by-update-date.json"), JSON.stringify(countByUpdateDate, null, 2))
+  fs.writeFileSync(
+    path.join(dataDir, "licenses-count-by-creation-date.json"),
+    JSON.stringify(countByCreationDateByLicense, null, 2)
+  )
 }
 
 {
