@@ -1,4 +1,5 @@
-data.europa.eu/packages.json
-data.gouv.fr/datasets.json
+/data.europa.eu/packages.json
+/data.gouv.fr/datasets.json
+/europeandataportal.eu/packages-*.json.br
 node_modules/
 package-lock.json

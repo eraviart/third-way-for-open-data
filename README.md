@@ -18,10 +18,16 @@ node fetch_data_gouv_fr.js posts
 node fetch_data_gouv_fr.js reuses
 node fetch_data_gouv_fr.js users
 node fetch_data_gouv_fr.js topics
+
+node fetch_data_europa_eu.js package
+
+node --max-old-space-size=2048 fetch_europeandataportal_eu.js package
 ```
 
 ## To generate stats from data
 
 ```bash
 node generate_data_gouv_fr_stats.js
+node generate_data_europa_eu_stats.js
+node --max-old-space-size=2048 generate_europeandataportal_eu_stats.js
 ```
