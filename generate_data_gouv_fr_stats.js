@@ -33,7 +33,7 @@ const dataDir = "data.gouv.fr"
 
     const updateDate = dataset.last_update.split("T")[0]
     if (updateDate > creationDate) {
-      countByUpdateDate[updateDate] = (countByUpdateDate[modificationDate] || 0) + 1
+      countByUpdateDate[updateDate] = (countByUpdateDate[updateDate] || 0) + 1
     }
   }
   fs.writeFileSync(
