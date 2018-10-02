@@ -18,7 +18,7 @@ const dataDir = "europeandataportal.eu"
       const metadataCreationDate = dataset.metadata_created.split("T")[0]
       countByMetadataCreationDate[metadataCreationDate] = (countByMetadataCreationDate[metadataCreationDate] || 0) + 1
 
-      const license = dataset.license_title
+      const license = dataset.license_id
       let countByCreationDateAtLicense = countByMetadataCreationDateByLicense[license]
       if (countByCreationDateAtLicense === undefined) {
         countByCreationDateAtLicense = countByMetadataCreationDateByLicense[license] = {}
