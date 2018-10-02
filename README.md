@@ -27,7 +27,7 @@ node --max-old-space-size=2048 fetch_europeandataportal_eu.js package
 ## To generate stats from data
 
 ```bash
-node generate_data_gouv_fr_stats.js
+node --max-old-space-size=2048 generate_data_gouv_fr_stats.js
 node generate_data_europa_eu_stats.js
 node --max-old-space-size=2048 generate_europeandataportal_eu_stats.js
 ```
